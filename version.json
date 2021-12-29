@@ -1,4 +1,5 @@
+
 {
-  "version": "1.0.0+1",
-  "content": [“增加了我的收藏功能”, “修复了很多bug”],
+  "imageUrl": "https://picsum.photos/375/812.jpg",
+  "landPageUrl": "https://m.jd.com"
 }
